@@ -1,3 +1,7 @@
+#This is a code for a slot machine 
+#fruits dont work on cmd 
+#thonny works fine
+#made by markthecoderguy on github
 import random
 import time
 coins = 5

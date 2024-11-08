@@ -1,3 +1,5 @@
+#if 5,6,7 used it will work with the first number and wont ask for a second
+#made by markthecoderguy on github
 import math
 num1 = int(input("number:\n  "))
 option = int(input("operation:\n1 for +\n2 for -\n3 for *\n4 for /\n5 for ²(square) \n6 for √(square root)\n7 for circumference of a circle(will work with diameter if chosen)\n    "))
